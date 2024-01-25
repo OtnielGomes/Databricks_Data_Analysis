@@ -1,18 +1,8 @@
-# My learning With Databricks Files Types
+# Databricks Data Analysis API Pandas x PySpark SQL
 
 Hello, this project reports on my learning using the Databricks tool.
 
 # The Database:
-Research carried out in the SIDRA system
-https://sidra.ibge.gov.br/pesquisa/pnsb
-CIDRA Tables
-Table 354 - Number of municipalities, total and those with occurrence of associated with basic sanitation, by type of disease.
-
-I will be working with some Databricks functions (dbutils),
-I will use Pytohn and SQL for data manipulation.
-I will also use PySpark to make some changes and create some DataFrames.
-
-In this project we will be analyzing different file formats. Let's compare them, analyzing their differences and main characteristics, checking the advantages and disadvantages of each type of format. The objective of this project is to analyze different types of formats and identify the role of each of them in the world of data science.
 
 ### Note: I recommend using the Databricks tool for a better visualization of the data and the project.
 
