@@ -1,6 +1,15 @@
 # Databricks Data Analysis API Pandas x PySpark SQL
 
-Hello, this project reports on my learning using the Databricks tool.
+Hello, in this project we will perform data analysis using two specific tools.
+
+The first tool will be the Pandas API in PySpark, this tool aims to reduce the learning curve for people who used the Pandas library in Python to perform data analysis and processing.
+
+The second tool will be PySpark SQL, in this project we will replicate all the analyzes and visualizations made with the Pandas API.
+
+The objective of this project is to compare the two tools, and check which one has the best solution for each problem, as they are two tools with fun functions and specific characteristics, it was necessary to make some adaptations to be able to replicate all the analyzes and data processing carried out by each tool.
+
+My conclusion is that each tool has its own particularity,
+I understand that in a way it is interesting to have knowledge of both in order to fully explore the visualizations and analyzes of a project.
 
 # The Database:
 
