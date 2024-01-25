@@ -13,12 +13,13 @@ I understand that in a way it is interesting to have knowledge of both in order 
 
 # The Database:
 
-### Note: I recommend using the Databricks tool for a better visualization of the data and the project.
+### Note: I recommend using the Databricks tool for better visualization of the data and the project.For the notebook to work properly, you will need to adjust the database directories according to its location on your local machine or in the ''FileStore" in your Databricks account.
 
 ## 🚀 Starting
 
 At the link below you can obtain a copy of the project:
-* [copy of the project](https://codeload.github.com/OtnielGomes/My_learning_Databricks_Files_Types/zip/refs/heads/main)
+* [copy of the project](https://codeload.github.com/OtnielGomes/Databricks_Data_Analysis/zip/refs/heads/main)
+* [copy of the project in Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4072346261940490/3819643224675240/6720898851860473/latest.html)
 
 ## 🛠️ Built with:
 * [Databricks-Community](https://community.cloud.databricks.com/)
@@ -27,11 +28,11 @@ At the link below you can obtain a copy of the project:
 
 * PySpark.SQL
 * Apache Spark
-* Apache Hive
+* Pandas API Spark
 
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
-* [My_learning_Databricks_Files_Types](https://github.com/OtnielGomes/My_learning_Databricks_Files_Types/blob/main/Databrick_Types_Files/My_Learning_Databricks_File-Formats.ipynb)
+* [Databricks_Data_Analysis](https://github.com/OtnielGomes/Databricks_Data_Analysis/blob/main/Project/Databricks%20-%20Data%20Analysis.ipynb)
 
 
